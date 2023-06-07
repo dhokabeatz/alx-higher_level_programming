@@ -1,8 +1,7 @@
 #!/usr/bin/python3
 
+foutput = ""
 for i in range(ord('z'), ord('a') - 1, -1):
-    if i % 2 == 0:
-        diff = 0
-    else:
-        diff = 32
-    print(chr(i - diff), end='')
+    diff = 0 if i % 2 == 0 else 32
+    output += '{}'.format(chr(i - diff))
+print(output)
