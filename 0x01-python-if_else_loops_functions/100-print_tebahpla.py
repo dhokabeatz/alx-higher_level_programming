@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-
-output = ""
-for i in range(ord('z'), ord('a') - 1, -1):
-    diff = 0 if i % 2 == 0 else 32
-    output += '{}'.format(chr(i - diff))
-print('{}'.format(output), end=" ")
+for letter in range(ord('z'), ord('a') - 1, -1):
+    if letter % 2 == 0:
+        nuf = 0
+    else:
+        nuf = 32
+    print('{}'.format(chr(letter - nuf)), end='')
