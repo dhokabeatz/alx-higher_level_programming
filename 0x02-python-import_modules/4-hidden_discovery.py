@@ -2,9 +2,10 @@
 import hidden_4
 
 
+
 def printNames():
     allNames = dir(hidden_4)
-    for everyname in names:
+    for everyname in allNames:
         if everyname[:2] != "__":
             print(everyname)
 
