@@ -2,7 +2,6 @@
 import hidden_4
 
 
-
 def printNames():
     allNames = dir(hidden_4)
     for everyname in allNames:
