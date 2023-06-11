@@ -10,3 +10,5 @@ def max_integer(my_list=[]):
             else:
                 max = max
     return max
+    else:
+        return None
