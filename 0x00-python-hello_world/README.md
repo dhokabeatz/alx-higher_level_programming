@@ -1,1 +1,3 @@
-Python Basics
+## Description
+
+The 0x00-python-hello_world project is an introductory Python programming project. It provides a foundation for beginners to learn Python basics, including syntax, variables, data types, and program execution. You will start by writing a "Hello, World!" program and progress to explore concepts like control structures and input/output operations. This project sets the stage for further learning in Python programming.

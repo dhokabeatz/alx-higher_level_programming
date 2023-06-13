@@ -1,1 +1,3 @@
-Import and modules
+## Description
+
+The 0x02-python-import_modules project explores the concept of importing modules in Python. Modules allow you to organize and reuse code by splitting it into separate files. In this project, you will learn how to import modules from the Python Standard Library as well as external modules created by other developers. You will discover various ways to import modules and explore their functionalities to enhance your programs. By mastering the art of module imports, you will gain the ability to leverage existing code and build more robust and efficient Python applications.

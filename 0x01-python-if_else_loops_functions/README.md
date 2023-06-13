@@ -1,1 +1,3 @@
-If else, Loops and functions
+## Description
+
+The 0x01-python-if_else_loops_functions project focuses on fundamental programming concepts in Python, including conditionals (if-else statements), loops, and functions. Through a series of exercises and challenges, you will learn how to make decisions based on different conditions, create repetitive tasks using loops, and define reusable blocks of code with functions. This project serves as a stepping stone for mastering control flow in Python and building more complex programs.

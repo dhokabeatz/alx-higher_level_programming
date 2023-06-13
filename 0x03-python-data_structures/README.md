@@ -1,1 +1,3 @@
-Solution to data structures
+## Description
+
+The 0x03-python-data_structures/lists_tuples project focuses on exploring the fundamental data structures of lists and tuples in Python. Lists and tuples are versatile data structures that allow you to store and manipulate collections of elements. In this project, you will learn how to create, modify, and access elements in lists and tuples. You will explore various operations such as indexing, slicing, and concatenation that can be performed on these data structures. Additionally, you will delve into concepts like mutability and immutability, and understand the key differences between lists and tuples. By mastering these data structures, you will gain a solid foundation in working with collections of data in Python.
