@@ -46,5 +46,3 @@ Contributions are welcome! If you would like to contribute to this repository, p
 This repository is licensed under the [MIT License](LICENSE). Feel free to use the code in this repository for your own projects.
 
 ---
-
-Feel free to customize this template according to your specific repository and add more sections or information as needed. Good luck with your higher level programming projects!
