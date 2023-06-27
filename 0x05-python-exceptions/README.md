@@ -11,3 +11,5 @@ By engaging with the 0x05 Python - Exceptions project, I will gain a deeper unde
 Furthermore, this project will expose me to advanced exception handling techniques, such as raising exceptions using the `raise` statement, creating custom exception classes, and handling exceptions in nested code blocks.
 
 Overall, the 0x05 Python - Exceptions project offers a comprehensive exploration of exceptions handling in Python. By mastering the techniques and best practices of exception handling, I will enhance my Python programming skills, improve the stability and reliability of my code, and become adept at handling unexpected scenarios in Python programs.
+
+This is a project in alx se program with holberton school
