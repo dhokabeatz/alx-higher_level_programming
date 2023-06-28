@@ -1,7 +1,4 @@
-#! /usr/bin/python3
-# 0-square.py
-"""Defines a square """
-
+#!/usr/bin/python3
 
 class Square:
     """Does nothing"""
