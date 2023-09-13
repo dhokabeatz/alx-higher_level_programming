@@ -1,1 +1,1 @@
-# Solutions to tasks on JavaScript - Objects, Scopes and Closures
+# Solutions to tasks on JavaScript - Objects, Scopes and Closures(First JavaScript project)
