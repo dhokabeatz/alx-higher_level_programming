@@ -1,11 +1,8 @@
 #!/usr/bin/node
-const request = require('request');
-const url = process.argv[2];
+const url = 'https://alx-intranet.hbtn.io/status';
 
-request.get(url, (error, response) => {
-  if (error) {
-    console.log(error);
-  } else {
-    console.log(`code: ${response.statusCode}`);
-  }
-});
+fetch(url)
+  .then(response => response.text()) // Get the response body as text
+  .then(data => console.log(data)) // Print the response data (status code)
+  .catch(error => console.error(error)); // Handle errors
+
